@@ -1,0 +1,13 @@
+name = "UtilityLS"
+uuid = "3ed178a5-e11f-46c6-a23b-3d64a18106f3"
+authors = ["Cédric Belmant"]
+version = "0.1.0"
+
+[compat]
+julia = "1.5"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
